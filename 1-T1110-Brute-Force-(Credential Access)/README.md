@@ -76,20 +76,20 @@ Based on repeated failed authentication attempts across the Domain Controller an
 
 2. Wazuh row view of all logs including the special multiple-login alert
 
-![T1110 Brute Force Detection Flow](./2_Wazuh_RowView_AllLogs.png)
+![T1110 Brute Force Detection Flow](./2_Wazuh_RowView_AllLog.png)
 
 
 3. Detailed view of the “multiple login attempts” alert in Wazuh
 
-![T1110 Brute Force Detection Flow](./3_Wazuh_SpecialAlert_LogView.png)
+![T1110 Brute Force Detection Flow](./3_Wazuh_SpecialAlert_LogVie.png)
 
 4. Client 1 Event Viewer showing 4776 logs
 
-![T1110 Brute Force Detection Flow](./4_Client1_EventViewer_4776.png)
+![T1110 Brute Force Detection Flow](./4_Client1_EventViewer_477.png)
 
 5. Client 1 detailed log view in Wazuh
 
-![T1110 Brute Force Detection Flow](./5_Client1_LogView_4776.png)
+![T1110 Brute Force Detection Flow](./5_Client1_LogView_477.png)
 
 
 
